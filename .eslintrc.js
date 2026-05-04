@@ -16,3 +16,4 @@ module.exports =
     "no-underscore-dangle": 0
   }
 }
+//eslintrc.js file
